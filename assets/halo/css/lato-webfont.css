@@ -1,0 +1,60 @@
+@font-face {
+	font-family:'latoblack';
+	font-weight:normal;
+	font-style:normal;
+	src:url('../fonts/lato-black.woff2') format('woff2')
+}
+@font-face {
+	font-family:'latoblack_italic';
+	font-weight:normal;
+	font-style:normal;
+	src:url('../fonts/lato-blackitalic.woff2') format('woff2')
+}
+@font-face {
+	font-family:'latobold';
+	font-weight:normal;
+	font-style:normal;
+	src:url('../fonts/lato-bold.woff2') format('woff2')
+}
+@font-face {
+	font-family:'latobold_italic';
+	font-weight:normal;
+	font-style:normal;
+	src:url('../fonts/lato-bolditalic.woff2') format('woff2')
+}
+@font-face {
+	font-family:'latohairline';
+	font-weight:normal;
+	font-style:normal;
+	src:url('../fonts/lato-hairline.woff2') format('woff2')
+}
+@font-face {
+	font-family:'latohairline_italic';
+	font-weight:normal;
+	font-style:normal;
+	src:url('../fonts/lato-hairlineitalic.woff2') format('woff2')
+}
+@font-face {
+	font-family:'latoitalic';
+	font-weight:normal;
+	font-style:normal;
+	src:url('../fonts/lato-italic.woff2') format('woff2')
+}
+@font-face {
+	font-family:'latolight';
+	font-weight:normal;
+	font-style:normal;
+	src:url('../fonts/lato-light.woff2') format('woff2')
+}
+@font-face {
+	font-family:'latolight_italic';
+	font-weight:normal;
+	font-style:normal;
+	src:url('../fonts/lato-lightitalic.woff2') format('woff2')
+}
+@font-face {
+	font-family:'latoregular';
+	font-weight:normal;
+	font-style:normal;
+	src:url('../fonts/lato-regular.woff2') format('woff2')
+}

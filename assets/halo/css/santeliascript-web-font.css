@@ -1,0 +1,30 @@
+@font-face {
+	font-family:'santelia_rough_altbold_thrdmo';
+	font-weight:normal;
+	font-style:normal;
+	src:url('../fonts/santeliaroughaltboldthrdemo.woff2') format('woff2')
+}
+@font-face {
+	font-family:'santelia_roughline';
+	font-weight:normal;
+	font-style:normal;
+	src:url('../fonts/santeliaroughline.woff2') format('woff2')
+}
+@font-face {
+	font-family:'santelia_roughline_thr';
+	font-weight:normal;
+	font-style:normal;
+	src:url('../fonts/santeliaroughlinethr.woff2') format('woff2')
+}
+@font-face {
+	font-family:'santelia_roughline_two';
+	font-weight:normal;
+	font-style:normal;
+	src:url('../fonts/santeliaroughlinetwo.woff2') format('woff2')
+}
+@font-face {
+	font-family:'santelia_scriptbold_dmo';
+	font-weight:normal;
+	font-style:normal;
+	src:url('../fonts/santeliascriptbolddemo.woff2') format('woff2')
+}
